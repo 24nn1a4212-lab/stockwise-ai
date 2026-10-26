@@ -1,0 +1,5932 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "sku": "SKU-WM-001",
+      "name": "Wireless Ergonomic Mouse",
+      "category": "Electronics",
+      "description": "Ergonomic 2.4GHz + Bluetooth rechargeable vertical mouse with precision optical sensor.",
+      "stock": 14,
+      "unit_cost": 24.5,
+      "unit_price": 59.99,
+      "reorder_point": 25,
+      "target_stock": 80,
+      "supplier_id": "SUP-101",
+      "supplier_name": "Apex Electronics Supply Co.",
+      "lead_time_days": 5,
+      "daily_demand": 12,
+      "status": "Low Stock",
+      "created_at": "2026-06-28T19:09:44.347264",
+      "updated_at": "2026-10-26T19:09:44.839835"
+    },
+    {
+      "id": "P002",
+      "sku": "SKU-MK-002",
+      "name": "Mechanical RGB Gaming Keyboard",
+      "category": "Electronics",
+      "description": "Tactile brown switch mechanical keyboard with per-key RGB backlighting and aircraft aluminum frame.",
+      "stock": 28,
+      "unit_cost": 55.0,
+      "unit_price": 129.99,
+      "reorder_point": 30,
+      "target_stock": 90,
+      "supplier_id": "SUP-101",
+      "supplier_name": "Apex Electronics Supply Co.",
+      "lead_time_days": 6,
+      "daily_demand": 8,
+      "status": "Low Stock",
+      "created_at": "2026-07-03T19:09:44.347281",
+      "updated_at": "2026-10-26T19:09:44.347284"
+    },
+    {
+      "id": "P003",
+      "sku": "SKU-HUB-003",
+      "name": "10-in-1 USB-C Pro Docking Hub",
+      "category": "Accessories",
+      "description": "Dual 4K HDMI, 100W Power Delivery, Gigabit Ethernet, SD card reader, and 3x USB 3.2 ports.",
+      "stock": 70,
+      "unit_cost": 38.0,
+      "unit_price": 89.99,
+      "reorder_point": 20,
+      "target_stock": 75,
+      "supplier_id": "SUP-102",
+      "supplier_name": "Nova Peripheral Labs",
+      "lead_time_days": 7,
+      "daily_demand": 9,
+      "status": "Healthy",
+      "created_at": "2026-07-08T19:09:44.347285",
+      "updated_at": "2026-10-26T19:09:44.855042"
+    },
+    {
+      "id": "P004",
+      "sku": "SKU-LS-004",
+      "name": "Aluminum Folding Laptop Stand",
+      "category": "Ergonomics",
+      "description": "Aerospace-grade aluminum folding riser with silicone padding and 6-level height adjustment.",
+      "stock": 34,
+      "unit_cost": 16.0,
+      "unit_price": 44.99,
+      "reorder_point": 25,
+      "target_stock": 70,
+      "supplier_id": "SUP-104",
+      "supplier_name": "ErgoWork Dynamic Logistics",
+      "lead_time_days": 8,
+      "daily_demand": 11,
+      "status": "Healthy",
+      "created_at": "2026-07-13T19:09:44.347289",
+      "updated_at": "2026-10-26T19:09:44.885269"
+    },
+    {
+      "id": "P005",
+      "sku": "SKU-HP-005",
+      "name": "Active Noise Cancelling Headphones",
+      "category": "Audio",
+      "description": "Wireless over-ear headphones with hybrid ANC, 40hr battery life, and Hi-Res LDAC support.",
+      "stock": 46,
+      "unit_cost": 85.0,
+      "unit_price": 199.99,
+      "reorder_point": 20,
+      "target_stock": 60,
+      "supplier_id": "SUP-103",
+      "supplier_name": "Quantum Audio & Video Tech",
+      "lead_time_days": 10,
+      "daily_demand": 6,
+      "status": "Healthy",
+      "created_at": "2026-07-18T19:09:44.347294",
+      "updated_at": "2026-10-26T19:09:44.347299"
+    },
+    {
+      "id": "P006",
+      "sku": "SKU-WC-006",
+      "name": "4K Ultra-HD Conference Webcam",
+      "category": "Electronics",
+      "description": "Sony Starvis CMOS sensor webcam with dual stereo noise-reducing microphones and HDR autofocus.",
+      "stock": 22,
+      "unit_cost": 62.0,
+      "unit_price": 139.99,
+      "reorder_point": 25,
+      "target_stock": 65,
+      "supplier_id": "SUP-103",
+      "supplier_name": "Quantum Audio & Video Tech",
+      "lead_time_days": 10,
+      "daily_demand": 7,
+      "status": "Low Stock",
+      "created_at": "2026-07-23T19:09:44.347300",
+      "updated_at": "2026-10-26T19:09:44.347302"
+    },
+    {
+      "id": "P007",
+      "sku": "SKU-TB-007",
+      "name": "Thunderbolt 4 High-Speed Cable (2m)",
+      "category": "Accessories",
+      "description": "Intel certified 40Gbps data transfer, 100W PD fast charging, 8K display support braided cable.",
+      "stock": 110,
+      "unit_cost": 11.5,
+      "unit_price": 32.99,
+      "reorder_point": 35,
+      "target_stock": 120,
+      "supplier_id": "SUP-105",
+      "supplier_name": "Vanguard Cable & Power Systems",
+      "lead_time_days": 4,
+      "daily_demand": 14,
+      "status": "Healthy",
+      "created_at": "2026-07-28T19:09:44.347306",
+      "updated_at": "2026-10-26T19:09:44.347308"
+    },
+    {
+      "id": "P008",
+      "sku": "SKU-DP-008",
+      "name": "Dual-Sided Eco-Leather Desk Pad",
+      "category": "Accessories",
+      "description": "90x45cm waterproof and scratch-resistant desk blotter protector with non-slip suede base.",
+      "stock": 58,
+      "unit_cost": 9.2,
+      "unit_price": 26.99,
+      "reorder_point": 20,
+      "target_stock": 80,
+      "supplier_id": "SUP-102",
+      "supplier_name": "Nova Peripheral Labs",
+      "lead_time_days": 7,
+      "daily_demand": 8,
+      "status": "Healthy",
+      "created_at": "2026-08-02T19:09:44.347310",
+      "updated_at": "2026-10-26T19:09:44.347312"
+    },
+    {
+      "id": "P009",
+      "sku": "SKU-MC-009",
+      "name": "Pro Ergonomic Lumbar Mesh Chair",
+      "category": "Ergonomics",
+      "description": "Dynamic self-adjusting lumbar support chair with 4D armrests, breathable Korean mesh, and tilt lock.",
+      "stock": 5,
+      "unit_cost": 175.0,
+      "unit_price": 389.99,
+      "reorder_point": 12,
+      "target_stock": 35,
+      "supplier_id": "SUP-104",
+      "supplier_name": "ErgoWork Dynamic Logistics",
+      "lead_time_days": 8,
+      "daily_demand": 3,
+      "status": "Critical",
+      "created_at": "2026-08-07T19:09:44.347315",
+      "updated_at": "2026-10-26T19:09:44.347317"
+    },
+    {
+      "id": "P010",
+      "sku": "SKU-QC-010",
+      "name": "3-in-1 Magnetic Fast Wireless Charger",
+      "category": "Power",
+      "description": "15W MagSafe compatible folding charging station for phone, smartwatch, and wireless earbuds.",
+      "stock": 65,
+      "unit_cost": 21.0,
+      "unit_price": 49.99,
+      "reorder_point": 25,
+      "target_stock": 85,
+      "supplier_id": "SUP-105",
+      "supplier_name": "Vanguard Cable & Power Systems",
+      "lead_time_days": 4,
+      "daily_demand": 10,
+      "status": "Healthy",
+      "created_at": "2026-08-12T19:09:44.347318",
+      "updated_at": "2026-10-26T19:09:44.347320"
+    },
+    {
+      "id": "P011",
+      "sku": "SKU-MS-011",
+      "name": "Heavy-Duty Gas Spring Monitor Arm",
+      "category": "Ergonomics",
+      "description": "Counterbalance single monitor mount holding up to 34-inch screens with integrated cable management.",
+      "stock": 19,
+      "unit_cost": 31.0,
+      "unit_price": 79.99,
+      "reorder_point": 20,
+      "target_stock": 50,
+      "supplier_id": "SUP-104",
+      "supplier_name": "ErgoWork Dynamic Logistics",
+      "lead_time_days": 8,
+      "daily_demand": 4,
+      "status": "Low Stock",
+      "created_at": "2026-08-17T19:09:44.347323",
+      "updated_at": "2026-10-26T19:09:44.347325"
+    },
+    {
+      "id": "P012",
+      "sku": "SKU-SP-012",
+      "name": "Smart Power Strip with Surge Protection",
+      "category": "Power",
+      "description": "WiFi connected smart power strip with 4 independent AC outlets, 3 USB-A, 1 USB-C PD 30W port.",
+      "stock": 84,
+      "unit_cost": 17.5,
+      "unit_price": 42.99,
+      "reorder_point": 25,
+      "target_stock": 90,
+      "supplier_id": "SUP-105",
+      "supplier_name": "Vanguard Cable & Power Systems",
+      "lead_time_days": 4,
+      "daily_demand": 7,
+      "status": "Healthy",
+      "created_at": "2026-08-22T19:09:44.347327",
+      "updated_at": "2026-10-26T19:09:44.347329"
+    },
+    {
+      "id": "P013",
+      "sku": "SKU-DL-013",
+      "name": "Monitor Light Bar Screen Lamp",
+      "category": "Accessories",
+      "description": "Asymmetric optical design screenbar with touch dimming, auto-light sensor, and no screen glare.",
+      "stock": 4,
+      "unit_cost": 27.0,
+      "unit_price": 64.99,
+      "reorder_point": 18,
+      "target_stock": 55,
+      "supplier_id": "SUP-102",
+      "supplier_name": "Nova Peripheral Labs",
+      "lead_time_days": 7,
+      "daily_demand": 6,
+      "status": "Critical",
+      "created_at": "2026-08-27T19:09:44.347331",
+      "updated_at": "2026-10-26T19:09:44.347333"
+    },
+    {
+      "id": "P014",
+      "sku": "SKU-BT-014",
+      "name": "USB Bluetooth 5.4 Audio Transmitter",
+      "category": "Audio",
+      "description": "Ultra low-latency aptX Adaptive dual-link audio transmitter dongle for PC and consoles.",
+      "stock": 92,
+      "unit_cost": 8.0,
+      "unit_price": 22.99,
+      "reorder_point": 20,
+      "target_stock": 100,
+      "supplier_id": "SUP-103",
+      "supplier_name": "Quantum Audio & Video Tech",
+      "lead_time_days": 10,
+      "daily_demand": 5,
+      "status": "Healthy",
+      "created_at": "2026-09-01T19:09:44.347335",
+      "updated_at": "2026-10-26T19:09:44.347337"
+    },
+    {
+      "id": "P015",
+      "sku": "SKU-NV-015",
+      "name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+      "category": "Computing",
+      "description": "10Gbps aluminum NVMe external drive case with silicone bumper and thermal cooling pad.",
+      "stock": 37,
+      "unit_cost": 15.0,
+      "unit_price": 36.99,
+      "reorder_point": 22,
+      "target_stock": 70,
+      "supplier_id": "SUP-101",
+      "supplier_name": "Apex Electronics Supply Co.",
+      "lead_time_days": 5,
+      "daily_demand": 6,
+      "status": "Healthy",
+      "created_at": "2026-09-06T19:09:44.347339",
+      "updated_at": "2026-10-26T19:09:44.347341"
+    },
+    {
+      "id": "P016",
+      "sku": "SKU-WP-016",
+      "name": "Mechanical Wrist Rest Pad",
+      "category": "Ergonomics",
+      "description": "Cooling memory foam ergonomic wrist support with breathable Lycra fabric and non-skid rubber base.",
+      "stock": 50,
+      "unit_cost": 6.5,
+      "unit_price": 18.99,
+      "reorder_point": 20,
+      "target_stock": 60,
+      "supplier_id": "SUP-104",
+      "supplier_name": "ErgoWork Dynamic Logistics",
+      "lead_time_days": 8,
+      "daily_demand": 5,
+      "status": "Healthy",
+      "created_at": "2026-09-11T19:09:44.347342",
+      "updated_at": "2026-10-26T19:09:44.347344"
+    }
+  ],
+  "sales": [
+    {
+      "id": "ORD-21984",
+      "customer_name": "Test QA Buyer",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 179.98
+        }
+      ],
+      "notes": null,
+      "order_id": "ORD-21984",
+      "total_amount": 179.98,
+      "date": "2026-10-26T19:09:44.855035",
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1001",
+      "order_id": "ORD-1001",
+      "date": "2026-07-28T17:05:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 1,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 199.99
+        }
+      ],
+      "total_amount": 199.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1002",
+      "order_id": "ORD-1002",
+      "date": "2026-07-28T17:38:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 65.98
+        }
+      ],
+      "total_amount": 65.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1003",
+      "order_id": "ORD-1003",
+      "date": "2026-07-28T09:48:00.347366",
+      "customer_name": "Acme Corp Tech Div",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 3,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 110.97
+        }
+      ],
+      "total_amount": 110.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1004",
+      "order_id": "ORD-1004",
+      "date": "2026-07-28T10:05:00.347366",
+      "customer_name": "Vanguard Health Systems",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 98.97
+        }
+      ],
+      "total_amount": 98.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1005",
+      "order_id": "ORD-1005",
+      "date": "2026-07-29T15:05:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 10,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 1299.9
+        },
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 171.96
+        }
+      ],
+      "total_amount": 1471.86,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1006",
+      "order_id": "ORD-1006",
+      "date": "2026-07-29T09:42:00.347366",
+      "customer_name": "Samantha Chen",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 6,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 257.94
+        },
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 199.96
+        }
+      ],
+      "total_amount": 457.9,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1007",
+      "order_id": "ORD-1007",
+      "date": "2026-07-29T14:10:00.347366",
+      "customer_name": "Zenith Retail",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 7,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 314.93
+        },
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 10,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 329.9
+        }
+      ],
+      "total_amount": 644.83,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1008",
+      "order_id": "ORD-1008",
+      "date": "2026-07-30T11:29:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 179.98
+        },
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 2,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 99.98
+        }
+      ],
+      "total_amount": 279.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1009",
+      "order_id": "ORD-1009",
+      "date": "2026-07-30T12:52:00.347366",
+      "customer_name": "Metro Studio Works",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 239.97
+        }
+      ],
+      "total_amount": 239.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1010",
+      "order_id": "ORD-1010",
+      "date": "2026-07-30T12:41:00.347366",
+      "customer_name": "Global Logistics Partners",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 8,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 263.92
+        }
+      ],
+      "total_amount": 263.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1011",
+      "order_id": "ORD-1011",
+      "date": "2026-07-31T18:27:00.347366",
+      "customer_name": "Metro Studio Works",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 80.97
+        }
+      ],
+      "total_amount": 80.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1012",
+      "order_id": "ORD-1012",
+      "date": "2026-07-31T10:48:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 799.96
+        }
+      ],
+      "total_amount": 799.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1013",
+      "order_id": "ORD-1013",
+      "date": "2026-08-01T15:38:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "B2B Direct",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 1,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 22.99
+        },
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 199.96
+        }
+      ],
+      "total_amount": 222.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1014",
+      "order_id": "ORD-1014",
+      "date": "2026-08-02T14:07:00.347366",
+      "customer_name": "Jordan Lee",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 239.96
+        },
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 7,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 559.93
+        }
+      ],
+      "total_amount": 799.89,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1015",
+      "order_id": "ORD-1015",
+      "date": "2026-08-02T17:58:00.347366",
+      "customer_name": "Pacific Commerce",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 779.98
+        }
+      ],
+      "total_amount": 779.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1016",
+      "order_id": "ORD-1016",
+      "date": "2026-08-03T18:20:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 5,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 999.95
+        },
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 419.97
+        }
+      ],
+      "total_amount": 1419.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1017",
+      "order_id": "ORD-1017",
+      "date": "2026-08-04T18:05:00.347366",
+      "customer_name": "Acme Corp Tech Div",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 1,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 49.99
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 89.98
+        }
+      ],
+      "total_amount": 139.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1018",
+      "order_id": "ORD-1018",
+      "date": "2026-08-04T17:55:00.347366",
+      "customer_name": "Apex Financial Group",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 799.96
+        },
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 179.98
+        },
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 239.97
+        }
+      ],
+      "total_amount": 1219.91,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1019",
+      "order_id": "ORD-1019",
+      "date": "2026-08-04T17:28:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 131.96
+        },
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 128.97
+        },
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 799.96
+        }
+      ],
+      "total_amount": 1060.89,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1020",
+      "order_id": "ORD-1020",
+      "date": "2026-08-05T09:04:00.347366",
+      "customer_name": "Zenith Retail",
+      "channel": "B2B Direct",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 53.98
+        }
+      ],
+      "total_amount": 53.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1021",
+      "order_id": "ORD-1021",
+      "date": "2026-08-05T10:32:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 389.97
+        }
+      ],
+      "total_amount": 389.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1022",
+      "order_id": "ORD-1022",
+      "date": "2026-08-06T16:51:00.347366",
+      "customer_name": "Beacon Consulting Group",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 37.98
+        }
+      ],
+      "total_amount": 37.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1023",
+      "order_id": "ORD-1023",
+      "date": "2026-08-06T15:26:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "B2B Direct",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 3,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 68.97
+        }
+      ],
+      "total_amount": 68.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1024",
+      "order_id": "ORD-1024",
+      "date": "2026-08-07T12:12:00.347366",
+      "customer_name": "Global Logistics Partners",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 79.99
+        }
+      ],
+      "total_amount": 79.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1025",
+      "order_id": "ORD-1025",
+      "date": "2026-08-07T12:55:00.347366",
+      "customer_name": "Starlight Innovations",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 1559.96
+        }
+      ],
+      "total_amount": 1559.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1026",
+      "order_id": "ORD-1026",
+      "date": "2026-08-08T15:31:00.347366",
+      "customer_name": "Pinnacle Capital",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 119.98
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 259.98
+        }
+      ],
+      "total_amount": 379.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1027",
+      "order_id": "ORD-1027",
+      "date": "2026-08-09T13:59:00.347366",
+      "customer_name": "Starlight Innovations",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 239.96
+        }
+      ],
+      "total_amount": 239.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1028",
+      "order_id": "ORD-1028",
+      "date": "2026-08-09T12:03:00.347366",
+      "customer_name": "Pinnacle Capital",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 6,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 113.94
+        },
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 7,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 629.93
+        }
+      ],
+      "total_amount": 743.87,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1029",
+      "order_id": "ORD-1029",
+      "date": "2026-08-10T09:32:00.347366",
+      "customer_name": "Samantha Chen",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 37.98
+        }
+      ],
+      "total_amount": 37.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1030",
+      "order_id": "ORD-1030",
+      "date": "2026-08-10T10:56:00.347366",
+      "customer_name": "Apex Financial Group",
+      "channel": "B2B Direct",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 107.96
+        }
+      ],
+      "total_amount": 107.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1031",
+      "order_id": "ORD-1031",
+      "date": "2026-08-10T18:36:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 359.96
+        }
+      ],
+      "total_amount": 359.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1032",
+      "order_id": "ORD-1032",
+      "date": "2026-08-11T11:42:00.347366",
+      "customer_name": "Solarium Tech",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 7,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 559.93
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 9,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 404.91
+        }
+      ],
+      "total_amount": 964.84,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1033",
+      "order_id": "ORD-1033",
+      "date": "2026-08-11T16:39:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 269.97
+        }
+      ],
+      "total_amount": 269.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1034",
+      "order_id": "ORD-1034",
+      "date": "2026-08-11T14:56:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 779.98
+        }
+      ],
+      "total_amount": 779.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1035",
+      "order_id": "ORD-1035",
+      "date": "2026-08-11T18:51:00.347366",
+      "customer_name": "Apex Financial Group",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 3,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 110.97
+        }
+      ],
+      "total_amount": 110.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1036",
+      "order_id": "ORD-1036",
+      "date": "2026-08-12T13:07:00.347366",
+      "customer_name": "Jordan Lee",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 89.98
+        }
+      ],
+      "total_amount": 89.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1037",
+      "order_id": "ORD-1037",
+      "date": "2026-08-12T12:43:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 98.97
+        }
+      ],
+      "total_amount": 98.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1038",
+      "order_id": "ORD-1038",
+      "date": "2026-08-12T15:53:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 519.96
+        }
+      ],
+      "total_amount": 519.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1039",
+      "order_id": "ORD-1039",
+      "date": "2026-08-12T11:47:00.347366",
+      "customer_name": "Beacon Consulting Group",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 3,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 599.97
+        }
+      ],
+      "total_amount": 599.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1040",
+      "order_id": "ORD-1040",
+      "date": "2026-08-13T17:02:00.347366",
+      "customer_name": "Samantha Chen",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 179.98
+        }
+      ],
+      "total_amount": 179.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1041",
+      "order_id": "ORD-1041",
+      "date": "2026-08-13T09:57:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 149.97
+        }
+      ],
+      "total_amount": 149.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1042",
+      "order_id": "ORD-1042",
+      "date": "2026-08-13T12:55:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "B2B Direct",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 171.96
+        },
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 129.98
+        }
+      ],
+      "total_amount": 301.94,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1043",
+      "order_id": "ORD-1043",
+      "date": "2026-08-14T12:17:00.347366",
+      "customer_name": "Vanguard Health Systems",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 319.96
+        }
+      ],
+      "total_amount": 319.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1044",
+      "order_id": "ORD-1044",
+      "date": "2026-08-15T14:19:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Online Store",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 37.98
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 179.96
+        }
+      ],
+      "total_amount": 217.94,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1045",
+      "order_id": "ORD-1045",
+      "date": "2026-08-16T13:22:00.347366",
+      "customer_name": "Zenith Retail",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 389.99
+        }
+      ],
+      "total_amount": 389.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1046",
+      "order_id": "ORD-1046",
+      "date": "2026-08-17T13:11:00.347366",
+      "customer_name": "Jordan Lee",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 59.99
+        }
+      ],
+      "total_amount": 59.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1047",
+      "order_id": "ORD-1047",
+      "date": "2026-08-17T14:27:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 8,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 183.92
+        }
+      ],
+      "total_amount": 183.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1048",
+      "order_id": "ORD-1048",
+      "date": "2026-08-17T09:33:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "Online Store",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 32.99
+        },
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 799.96
+        }
+      ],
+      "total_amount": 832.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1049",
+      "order_id": "ORD-1049",
+      "date": "2026-08-18T10:46:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 239.97
+        }
+      ],
+      "total_amount": 239.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1050",
+      "order_id": "ORD-1050",
+      "date": "2026-08-18T12:26:00.347366",
+      "customer_name": "Pacific Commerce",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 5,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 249.95
+        }
+      ],
+      "total_amount": 249.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1051",
+      "order_id": "ORD-1051",
+      "date": "2026-08-18T13:13:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 1,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 49.99
+        },
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 98.97
+        }
+      ],
+      "total_amount": 148.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1052",
+      "order_id": "ORD-1052",
+      "date": "2026-08-18T11:42:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 10,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 329.9
+        }
+      ],
+      "total_amount": 329.9,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1053",
+      "order_id": "ORD-1053",
+      "date": "2026-08-19T12:09:00.347366",
+      "customer_name": "Pacific Commerce",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 7,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 188.93
+        },
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 6,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 479.94
+        }
+      ],
+      "total_amount": 668.87,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1054",
+      "order_id": "ORD-1054",
+      "date": "2026-08-19T15:15:00.347366",
+      "customer_name": "Acme Corp Tech Div",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 179.98
+        },
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 107.96
+        },
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 131.96
+        }
+      ],
+      "total_amount": 419.9,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1055",
+      "order_id": "ORD-1055",
+      "date": "2026-08-20T17:15:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 107.96
+        },
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 89.99
+        }
+      ],
+      "total_amount": 197.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1056",
+      "order_id": "ORD-1056",
+      "date": "2026-08-20T17:28:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 319.96
+        },
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 259.96
+        }
+      ],
+      "total_amount": 579.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1057",
+      "order_id": "ORD-1057",
+      "date": "2026-08-21T13:28:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 1559.96
+        },
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 129.98
+        }
+      ],
+      "total_amount": 1689.94,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1058",
+      "order_id": "ORD-1058",
+      "date": "2026-08-22T11:09:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 319.96
+        }
+      ],
+      "total_amount": 319.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1059",
+      "order_id": "ORD-1059",
+      "date": "2026-08-23T17:29:00.347366",
+      "customer_name": "Metro Studio Works",
+      "channel": "B2B Direct",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 3,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 68.97
+        }
+      ],
+      "total_amount": 68.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1060",
+      "order_id": "ORD-1060",
+      "date": "2026-08-24T16:00:00.347366",
+      "customer_name": "Global Logistics Partners",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 239.96
+        }
+      ],
+      "total_amount": 239.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1061",
+      "order_id": "ORD-1061",
+      "date": "2026-08-24T12:17:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 6,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 137.94
+        },
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 10,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 3899.9
+        }
+      ],
+      "total_amount": 4037.84,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1062",
+      "order_id": "ORD-1062",
+      "date": "2026-08-25T16:58:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Online Store",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 129.98
+        }
+      ],
+      "total_amount": 129.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1063",
+      "order_id": "ORD-1063",
+      "date": "2026-08-25T15:08:00.347366",
+      "customer_name": "Horizon Softworks",
+      "channel": "Online Store",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 59.99
+        }
+      ],
+      "total_amount": 59.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1064",
+      "order_id": "ORD-1064",
+      "date": "2026-08-25T16:20:00.347366",
+      "customer_name": "Pinnacle Capital",
+      "channel": "B2B Direct",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 159.98
+        }
+      ],
+      "total_amount": 159.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1065",
+      "order_id": "ORD-1065",
+      "date": "2026-08-26T09:47:00.347366",
+      "customer_name": "Metro Studio Works",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 10,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 899.9
+        }
+      ],
+      "total_amount": 899.9,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1066",
+      "order_id": "ORD-1066",
+      "date": "2026-08-26T09:15:00.347366",
+      "customer_name": "Samantha Chen",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 89.99
+        }
+      ],
+      "total_amount": 89.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1067",
+      "order_id": "ORD-1067",
+      "date": "2026-08-26T10:36:00.347366",
+      "customer_name": "Starlight Innovations",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 799.96
+        }
+      ],
+      "total_amount": 799.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1068",
+      "order_id": "ORD-1068",
+      "date": "2026-08-27T13:06:00.347366",
+      "customer_name": "Pinnacle Capital",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 5,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 224.95
+        }
+      ],
+      "total_amount": 224.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1069",
+      "order_id": "ORD-1069",
+      "date": "2026-08-27T12:04:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 259.96
+        }
+      ],
+      "total_amount": 259.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1070",
+      "order_id": "ORD-1070",
+      "date": "2026-08-28T14:34:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "B2B Direct",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 1,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 49.99
+        },
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 1,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 22.99
+        }
+      ],
+      "total_amount": 72.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1071",
+      "order_id": "ORD-1071",
+      "date": "2026-08-28T15:52:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 239.97
+        }
+      ],
+      "total_amount": 239.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1072",
+      "order_id": "ORD-1072",
+      "date": "2026-08-28T18:51:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Online Store",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 4,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 147.96
+        },
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 2,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 85.98
+        },
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 269.97
+        }
+      ],
+      "total_amount": 503.91,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1073",
+      "order_id": "ORD-1073",
+      "date": "2026-08-29T13:56:00.347366",
+      "customer_name": "Pinnacle Capital",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 26.99
+        }
+      ],
+      "total_amount": 26.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1074",
+      "order_id": "ORD-1074",
+      "date": "2026-08-29T09:31:00.347366",
+      "customer_name": "Pinnacle Capital",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 194.97
+        }
+      ],
+      "total_amount": 194.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1075",
+      "order_id": "ORD-1075",
+      "date": "2026-08-30T13:56:00.347366",
+      "customer_name": "Vanguard Health Systems",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 1169.97
+        }
+      ],
+      "total_amount": 1169.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1076",
+      "order_id": "ORD-1076",
+      "date": "2026-08-30T12:46:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 131.96
+        }
+      ],
+      "total_amount": 131.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1077",
+      "order_id": "ORD-1077",
+      "date": "2026-08-31T13:14:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 18.99
+        },
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 26.99
+        }
+      ],
+      "total_amount": 45.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1078",
+      "order_id": "ORD-1078",
+      "date": "2026-08-31T17:21:00.347366",
+      "customer_name": "Metro Studio Works",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 128.97
+        },
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 107.96
+        }
+      ],
+      "total_amount": 236.93,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1079",
+      "order_id": "ORD-1079",
+      "date": "2026-09-01T12:20:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 26.99
+        }
+      ],
+      "total_amount": 26.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1080",
+      "order_id": "ORD-1080",
+      "date": "2026-09-01T18:48:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "B2B Direct",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 56.97
+        }
+      ],
+      "total_amount": 56.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1081",
+      "order_id": "ORD-1081",
+      "date": "2026-09-01T13:00:00.347366",
+      "customer_name": "Jordan Lee",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 8,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 399.92
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 5,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 224.95
+        }
+      ],
+      "total_amount": 624.87,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1082",
+      "order_id": "ORD-1082",
+      "date": "2026-09-02T11:40:00.347366",
+      "customer_name": "Samantha Chen",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 389.97
+        }
+      ],
+      "total_amount": 389.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1083",
+      "order_id": "ORD-1083",
+      "date": "2026-09-02T16:21:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 75.96
+        }
+      ],
+      "total_amount": 75.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1084",
+      "order_id": "ORD-1084",
+      "date": "2026-09-02T10:36:00.347366",
+      "customer_name": "Vanguard Health Systems",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 18.99
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 519.96
+        },
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 91.96
+        }
+      ],
+      "total_amount": 630.91,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1085",
+      "order_id": "ORD-1085",
+      "date": "2026-09-02T12:07:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 1,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 49.99
+        }
+      ],
+      "total_amount": 49.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1086",
+      "order_id": "ORD-1086",
+      "date": "2026-09-03T18:27:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 3,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 110.97
+        }
+      ],
+      "total_amount": 110.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1087",
+      "order_id": "ORD-1087",
+      "date": "2026-09-03T11:15:00.347366",
+      "customer_name": "Pacific Commerce",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 89.98
+        },
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 194.97
+        },
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 18.99
+        }
+      ],
+      "total_amount": 303.94,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1088",
+      "order_id": "ORD-1088",
+      "date": "2026-09-03T13:02:00.347366",
+      "customer_name": "Vanguard Health Systems",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 4,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 147.96
+        }
+      ],
+      "total_amount": 147.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1089",
+      "order_id": "ORD-1089",
+      "date": "2026-09-03T18:42:00.347366",
+      "customer_name": "Zenith Retail",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 6,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 221.94
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 7,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 909.93
+        }
+      ],
+      "total_amount": 1131.87,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1090",
+      "order_id": "ORD-1090",
+      "date": "2026-09-04T11:04:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 3,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 599.97
+        }
+      ],
+      "total_amount": 599.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1091",
+      "order_id": "ORD-1091",
+      "date": "2026-09-05T13:44:00.347366",
+      "customer_name": "Vanguard Health Systems",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 199.96
+        },
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 10,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 269.9
+        }
+      ],
+      "total_amount": 469.86,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1092",
+      "order_id": "ORD-1092",
+      "date": "2026-09-06T14:38:00.347366",
+      "customer_name": "Beacon Consulting Group",
+      "channel": "Retail Outlet",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 519.96
+        }
+      ],
+      "total_amount": 519.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1093",
+      "order_id": "ORD-1093",
+      "date": "2026-09-06T18:02:00.347366",
+      "customer_name": "Beacon Consulting Group",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 179.97
+        }
+      ],
+      "total_amount": 179.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1094",
+      "order_id": "ORD-1094",
+      "date": "2026-09-07T10:30:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 91.96
+        }
+      ],
+      "total_amount": 91.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1095",
+      "order_id": "ORD-1095",
+      "date": "2026-09-08T13:42:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 9,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 1259.91
+        },
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 10,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 189.9
+        }
+      ],
+      "total_amount": 1449.81,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1096",
+      "order_id": "ORD-1096",
+      "date": "2026-09-08T10:49:00.347366",
+      "customer_name": "Metro Studio Works",
+      "channel": "Online Store",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 1169.97
+        }
+      ],
+      "total_amount": 1169.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1097",
+      "order_id": "ORD-1097",
+      "date": "2026-09-08T17:23:00.347366",
+      "customer_name": "Metro Studio Works",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 259.98
+        }
+      ],
+      "total_amount": 259.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1098",
+      "order_id": "ORD-1098",
+      "date": "2026-09-09T16:56:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 3,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 599.97
+        }
+      ],
+      "total_amount": 599.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1099",
+      "order_id": "ORD-1099",
+      "date": "2026-09-09T13:35:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 53.98
+        }
+      ],
+      "total_amount": 53.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1100",
+      "order_id": "ORD-1100",
+      "date": "2026-09-09T10:41:00.347366",
+      "customer_name": "Acme Corp Tech Div",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 179.96
+        }
+      ],
+      "total_amount": 179.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1101",
+      "order_id": "ORD-1101",
+      "date": "2026-09-09T16:30:00.347366",
+      "customer_name": "Horizon Softworks",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 1559.96
+        }
+      ],
+      "total_amount": 1559.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1102",
+      "order_id": "ORD-1102",
+      "date": "2026-09-10T13:49:00.347366",
+      "customer_name": "Pinnacle Capital",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 1,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 199.99
+        }
+      ],
+      "total_amount": 199.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1103",
+      "order_id": "ORD-1103",
+      "date": "2026-09-10T13:53:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 7,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 419.93
+        }
+      ],
+      "total_amount": 419.93,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1104",
+      "order_id": "ORD-1104",
+      "date": "2026-09-11T14:35:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 56.97
+        }
+      ],
+      "total_amount": 56.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1105",
+      "order_id": "ORD-1105",
+      "date": "2026-09-11T09:20:00.347366",
+      "customer_name": "Samantha Chen",
+      "channel": "Retail Outlet",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 131.96
+        },
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 2,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 85.98
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 179.96
+        }
+      ],
+      "total_amount": 397.9,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1106",
+      "order_id": "ORD-1106",
+      "date": "2026-09-11T16:06:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Retail Outlet",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 2,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 399.98
+        },
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 80.97
+        },
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 59.99
+        }
+      ],
+      "total_amount": 540.94,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1107",
+      "order_id": "ORD-1107",
+      "date": "2026-09-12T14:39:00.347366",
+      "customer_name": "Acme Corp Tech Div",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 799.96
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 389.97
+        }
+      ],
+      "total_amount": 1189.93,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1108",
+      "order_id": "ORD-1108",
+      "date": "2026-09-12T18:04:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 259.96
+        },
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 139.99
+        }
+      ],
+      "total_amount": 399.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1109",
+      "order_id": "ORD-1109",
+      "date": "2026-09-13T11:44:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 91.96
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 10,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 1299.9
+        }
+      ],
+      "total_amount": 1391.86,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1110",
+      "order_id": "ORD-1110",
+      "date": "2026-09-14T11:15:00.347366",
+      "customer_name": "Acme Corp Tech Div",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 149.97
+        },
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 559.96
+        }
+      ],
+      "total_amount": 709.93,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1111",
+      "order_id": "ORD-1111",
+      "date": "2026-09-14T18:55:00.347366",
+      "customer_name": "Jordan Lee",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 279.98
+        },
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 89.99
+        }
+      ],
+      "total_amount": 369.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1112",
+      "order_id": "ORD-1112",
+      "date": "2026-09-15T09:57:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 3,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 599.97
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 179.96
+        },
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 80.97
+        }
+      ],
+      "total_amount": 860.9,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1113",
+      "order_id": "ORD-1113",
+      "date": "2026-09-15T18:19:00.347366",
+      "customer_name": "Pinnacle Capital",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 8,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 295.92
+        }
+      ],
+      "total_amount": 295.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1114",
+      "order_id": "ORD-1114",
+      "date": "2026-09-15T15:54:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 2,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 99.98
+        }
+      ],
+      "total_amount": 99.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1115",
+      "order_id": "ORD-1115",
+      "date": "2026-09-16T09:53:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 149.97
+        }
+      ],
+      "total_amount": 149.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1116",
+      "order_id": "ORD-1116",
+      "date": "2026-09-16T13:49:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 519.96
+        }
+      ],
+      "total_amount": 519.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1117",
+      "order_id": "ORD-1117",
+      "date": "2026-09-16T09:19:00.347366",
+      "customer_name": "Zenith Retail",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 5,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 1949.95
+        },
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 319.96
+        }
+      ],
+      "total_amount": 2269.91,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1118",
+      "order_id": "ORD-1118",
+      "date": "2026-09-17T15:11:00.347366",
+      "customer_name": "Global Logistics Partners",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 8,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 399.92
+        }
+      ],
+      "total_amount": 399.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1119",
+      "order_id": "ORD-1119",
+      "date": "2026-09-17T13:58:00.347366",
+      "customer_name": "Starlight Innovations",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 128.97
+        },
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 779.98
+        }
+      ],
+      "total_amount": 908.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1120",
+      "order_id": "ORD-1120",
+      "date": "2026-09-17T15:54:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 5,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 184.95
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 6,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 779.94
+        }
+      ],
+      "total_amount": 964.89,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1121",
+      "order_id": "ORD-1121",
+      "date": "2026-09-18T14:43:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "Online Store",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 179.96
+        }
+      ],
+      "total_amount": 179.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1122",
+      "order_id": "ORD-1122",
+      "date": "2026-09-18T12:30:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 171.96
+        }
+      ],
+      "total_amount": 171.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1123",
+      "order_id": "ORD-1123",
+      "date": "2026-09-18T13:41:00.347366",
+      "customer_name": "Acme Corp Tech Div",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 10,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 899.9
+        }
+      ],
+      "total_amount": 899.9,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1124",
+      "order_id": "ORD-1124",
+      "date": "2026-09-19T15:29:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "B2B Direct",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 1,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 49.99
+        },
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 53.98
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 259.98
+        }
+      ],
+      "total_amount": 363.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1125",
+      "order_id": "ORD-1125",
+      "date": "2026-09-19T16:39:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 4,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 799.96
+        },
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 1,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 36.99
+        }
+      ],
+      "total_amount": 836.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1126",
+      "order_id": "ORD-1126",
+      "date": "2026-09-20T14:06:00.347366",
+      "customer_name": "Beacon Consulting Group",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 2,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 73.98
+        }
+      ],
+      "total_amount": 73.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1127",
+      "order_id": "ORD-1127",
+      "date": "2026-09-20T16:05:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 7,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 300.93
+        },
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 6,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 359.94
+        },
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 131.96
+        }
+      ],
+      "total_amount": 792.83,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1128",
+      "order_id": "ORD-1128",
+      "date": "2026-09-21T17:13:00.347366",
+      "customer_name": "Starlight Innovations",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 53.98
+        },
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 89.99
+        }
+      ],
+      "total_amount": 143.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1129",
+      "order_id": "ORD-1129",
+      "date": "2026-09-21T13:54:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "B2B Direct",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 1,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 199.99
+        }
+      ],
+      "total_amount": 199.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1130",
+      "order_id": "ORD-1130",
+      "date": "2026-09-21T09:08:00.347366",
+      "customer_name": "Horizon Softworks",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 139.99
+        }
+      ],
+      "total_amount": 139.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1131",
+      "order_id": "ORD-1131",
+      "date": "2026-09-22T09:08:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 419.97
+        }
+      ],
+      "total_amount": 419.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1132",
+      "order_id": "ORD-1132",
+      "date": "2026-09-22T16:32:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 1,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 42.99
+        }
+      ],
+      "total_amount": 42.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1133",
+      "order_id": "ORD-1133",
+      "date": "2026-09-23T16:54:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 59.99
+        }
+      ],
+      "total_amount": 59.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1134",
+      "order_id": "ORD-1134",
+      "date": "2026-09-23T10:20:00.347366",
+      "customer_name": "Metro Studio Works",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 1,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 36.99
+        }
+      ],
+      "total_amount": 36.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1135",
+      "order_id": "ORD-1135",
+      "date": "2026-09-24T18:33:00.347366",
+      "customer_name": "Horizon Softworks",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 319.96
+        }
+      ],
+      "total_amount": 319.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1136",
+      "order_id": "ORD-1136",
+      "date": "2026-09-24T15:28:00.347366",
+      "customer_name": "Pacific Commerce",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 44.99
+        },
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 129.98
+        }
+      ],
+      "total_amount": 174.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1137",
+      "order_id": "ORD-1137",
+      "date": "2026-09-24T15:20:00.347366",
+      "customer_name": "Zenith Retail",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 64.99
+        },
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 98.97
+        }
+      ],
+      "total_amount": 163.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1138",
+      "order_id": "ORD-1138",
+      "date": "2026-09-24T10:47:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 75.96
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 519.96
+        },
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 9,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 332.91
+        }
+      ],
+      "total_amount": 928.83,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1139",
+      "order_id": "ORD-1139",
+      "date": "2026-09-25T15:22:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 79.99
+        }
+      ],
+      "total_amount": 79.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1140",
+      "order_id": "ORD-1140",
+      "date": "2026-09-25T12:54:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 2,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 99.98
+        },
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 279.98
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 519.96
+        }
+      ],
+      "total_amount": 899.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1141",
+      "order_id": "ORD-1141",
+      "date": "2026-09-25T15:54:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 6,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 2339.94
+        }
+      ],
+      "total_amount": 2339.94,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1142",
+      "order_id": "ORD-1142",
+      "date": "2026-09-26T14:00:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 8,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 399.92
+        }
+      ],
+      "total_amount": 399.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1143",
+      "order_id": "ORD-1143",
+      "date": "2026-09-27T17:13:00.347366",
+      "customer_name": "Horizon Softworks",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 59.99
+        }
+      ],
+      "total_amount": 59.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1144",
+      "order_id": "ORD-1144",
+      "date": "2026-09-28T18:38:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 149.97
+        }
+      ],
+      "total_amount": 149.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1145",
+      "order_id": "ORD-1145",
+      "date": "2026-09-28T13:28:00.347366",
+      "customer_name": "Apex Financial Group",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 129.99
+        }
+      ],
+      "total_amount": 129.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1146",
+      "order_id": "ORD-1146",
+      "date": "2026-09-29T17:07:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 779.98
+        }
+      ],
+      "total_amount": 779.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1147",
+      "order_id": "ORD-1147",
+      "date": "2026-09-29T09:14:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 56.97
+        }
+      ],
+      "total_amount": 56.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1148",
+      "order_id": "ORD-1148",
+      "date": "2026-09-29T13:18:00.347366",
+      "customer_name": "Metro Studio Works",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 65.98
+        }
+      ],
+      "total_amount": 65.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1149",
+      "order_id": "ORD-1149",
+      "date": "2026-09-29T11:24:00.347366",
+      "customer_name": "Solarium Tech",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 2,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 45.98
+        }
+      ],
+      "total_amount": 45.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1150",
+      "order_id": "ORD-1150",
+      "date": "2026-09-30T15:55:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 1,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 42.99
+        }
+      ],
+      "total_amount": 42.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1151",
+      "order_id": "ORD-1151",
+      "date": "2026-09-30T18:27:00.347366",
+      "customer_name": "Global Logistics Partners",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 269.97
+        }
+      ],
+      "total_amount": 269.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1152",
+      "order_id": "ORD-1152",
+      "date": "2026-09-30T14:10:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "Retail Outlet",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 64.99
+        }
+      ],
+      "total_amount": 64.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1153",
+      "order_id": "ORD-1153",
+      "date": "2026-09-30T15:37:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "Retail Outlet",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 89.98
+        }
+      ],
+      "total_amount": 89.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1154",
+      "order_id": "ORD-1154",
+      "date": "2026-10-01T10:32:00.347366",
+      "customer_name": "Jordan Lee",
+      "channel": "Online Store",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 239.97
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 89.98
+        }
+      ],
+      "total_amount": 329.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1155",
+      "order_id": "ORD-1155",
+      "date": "2026-10-01T11:15:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 128.97
+        }
+      ],
+      "total_amount": 128.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1156",
+      "order_id": "ORD-1156",
+      "date": "2026-10-01T11:49:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 1,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 199.99
+        }
+      ],
+      "total_amount": 199.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1157",
+      "order_id": "ORD-1157",
+      "date": "2026-10-02T11:28:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 3,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 110.97
+        },
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 239.97
+        }
+      ],
+      "total_amount": 350.94,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1158",
+      "order_id": "ORD-1158",
+      "date": "2026-10-02T17:04:00.347366",
+      "customer_name": "Apex Financial Group",
+      "channel": "Retail Outlet",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 389.99
+        },
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 149.97
+        }
+      ],
+      "total_amount": 539.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1159",
+      "order_id": "ORD-1159",
+      "date": "2026-10-02T10:41:00.347366",
+      "customer_name": "Pacific Commerce",
+      "channel": "Retail Outlet",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 3,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 128.97
+        }
+      ],
+      "total_amount": 128.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1160",
+      "order_id": "ORD-1160",
+      "date": "2026-10-03T18:41:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "Retail Outlet",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 519.96
+        }
+      ],
+      "total_amount": 519.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1161",
+      "order_id": "ORD-1161",
+      "date": "2026-10-04T10:51:00.347366",
+      "customer_name": "Solarium Tech",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 519.96
+        }
+      ],
+      "total_amount": 519.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1162",
+      "order_id": "ORD-1162",
+      "date": "2026-10-05T17:33:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 519.96
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 179.96
+        }
+      ],
+      "total_amount": 699.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1163",
+      "order_id": "ORD-1163",
+      "date": "2026-10-05T15:49:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 199.96
+        }
+      ],
+      "total_amount": 199.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1164",
+      "order_id": "ORD-1164",
+      "date": "2026-10-06T13:16:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 179.96
+        }
+      ],
+      "total_amount": 179.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1165",
+      "order_id": "ORD-1165",
+      "date": "2026-10-06T13:41:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 3,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 599.97
+        }
+      ],
+      "total_amount": 599.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1166",
+      "order_id": "ORD-1166",
+      "date": "2026-10-06T17:24:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 269.97
+        }
+      ],
+      "total_amount": 269.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1167",
+      "order_id": "ORD-1167",
+      "date": "2026-10-07T09:23:00.347366",
+      "customer_name": "Solarium Tech",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 3,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 68.97
+        }
+      ],
+      "total_amount": 68.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1168",
+      "order_id": "ORD-1168",
+      "date": "2026-10-07T12:08:00.347366",
+      "customer_name": "Pacific Commerce",
+      "channel": "B2B Direct",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 37.98
+        }
+      ],
+      "total_amount": 37.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1169",
+      "order_id": "ORD-1169",
+      "date": "2026-10-07T18:08:00.347366",
+      "customer_name": "Horizon Softworks",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 44.99
+        },
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 1169.97
+        }
+      ],
+      "total_amount": 1214.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1170",
+      "order_id": "ORD-1170",
+      "date": "2026-10-07T09:26:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 559.96
+        }
+      ],
+      "total_amount": 559.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1171",
+      "order_id": "ORD-1171",
+      "date": "2026-10-08T16:57:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 2,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 73.98
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 134.97
+        }
+      ],
+      "total_amount": 208.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1172",
+      "order_id": "ORD-1172",
+      "date": "2026-10-08T12:51:00.347366",
+      "customer_name": "Starlight Innovations",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 9,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 332.91
+        },
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 9,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 584.91
+        },
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 5,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 999.95
+        }
+      ],
+      "total_amount": 1917.77,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1173",
+      "order_id": "ORD-1173",
+      "date": "2026-10-08T17:59:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 56.97
+        }
+      ],
+      "total_amount": 56.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1174",
+      "order_id": "ORD-1174",
+      "date": "2026-10-09T16:57:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 419.97
+        }
+      ],
+      "total_amount": 419.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1175",
+      "order_id": "ORD-1175",
+      "date": "2026-10-10T09:25:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 1,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 42.99
+        },
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 4,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 147.96
+        }
+      ],
+      "total_amount": 190.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1176",
+      "order_id": "ORD-1176",
+      "date": "2026-10-11T10:53:00.347366",
+      "customer_name": "Zenith Retail",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 179.97
+        }
+      ],
+      "total_amount": 179.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1177",
+      "order_id": "ORD-1177",
+      "date": "2026-10-11T11:48:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 10,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 499.9
+        }
+      ],
+      "total_amount": 499.9,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1178",
+      "order_id": "ORD-1178",
+      "date": "2026-10-12T13:13:00.347366",
+      "customer_name": "Alex Rivera",
+      "channel": "Retail Outlet",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 89.99
+        }
+      ],
+      "total_amount": 89.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1179",
+      "order_id": "ORD-1179",
+      "date": "2026-10-12T12:26:00.347366",
+      "customer_name": "Horizon Softworks",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 26.99
+        },
+        {
+          "product_id": "P005",
+          "sku": "SKU-HP-005",
+          "product_name": "Active Noise Cancelling Headphones",
+          "category": "Audio",
+          "quantity": 1,
+          "unit_price": 199.99,
+          "unit_cost": 85.0,
+          "total": 199.99
+        }
+      ],
+      "total_amount": 226.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1180",
+      "order_id": "ORD-1180",
+      "date": "2026-10-12T17:36:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 18.99
+        }
+      ],
+      "total_amount": 18.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1181",
+      "order_id": "ORD-1181",
+      "date": "2026-10-13T18:26:00.347366",
+      "customer_name": "Liam O'Connor",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 2,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 85.98
+        }
+      ],
+      "total_amount": 85.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1182",
+      "order_id": "ORD-1182",
+      "date": "2026-10-13T09:40:00.347366",
+      "customer_name": "Vanguard Health Systems",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 1,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 89.99
+        },
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 1559.96
+        },
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 4,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 147.96
+        }
+      ],
+      "total_amount": 1797.91,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1183",
+      "order_id": "ORD-1183",
+      "date": "2026-10-14T12:46:00.347366",
+      "customer_name": "Ironclad Security Ltd",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 8,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 719.92
+        }
+      ],
+      "total_amount": 719.92,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1184",
+      "order_id": "ORD-1184",
+      "date": "2026-10-14T17:21:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 79.99
+        },
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 269.97
+        }
+      ],
+      "total_amount": 349.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1185",
+      "order_id": "ORD-1185",
+      "date": "2026-10-14T09:18:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 2,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 37.98
+        },
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 79.99
+        },
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 359.96
+        }
+      ],
+      "total_amount": 477.93,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1186",
+      "order_id": "ORD-1186",
+      "date": "2026-10-15T17:30:00.347366",
+      "customer_name": "Global Logistics Partners",
+      "channel": "B2B Direct",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P010",
+          "sku": "SKU-QC-010",
+          "product_name": "3-in-1 Magnetic Fast Wireless Charger",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 49.99,
+          "unit_cost": 21.0,
+          "total": 199.96
+        }
+      ],
+      "total_amount": 199.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1187",
+      "order_id": "ORD-1187",
+      "date": "2026-10-15T13:07:00.347366",
+      "customer_name": "Beacon Consulting Group",
+      "channel": "Online Store",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 389.97
+        }
+      ],
+      "total_amount": 389.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1188",
+      "order_id": "ORD-1188",
+      "date": "2026-10-16T16:23:00.347366",
+      "customer_name": "Summit Cloud Solutions",
+      "channel": "Retail Outlet",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 129.98
+        },
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 559.96
+        }
+      ],
+      "total_amount": 689.94,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1189",
+      "order_id": "ORD-1189",
+      "date": "2026-10-16T14:06:00.347366",
+      "customer_name": "Jordan Lee",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 5,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 449.95
+        },
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 7,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 230.93
+        }
+      ],
+      "total_amount": 680.88,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1190",
+      "order_id": "ORD-1190",
+      "date": "2026-10-17T16:22:00.347366",
+      "customer_name": "Solarium Tech",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 5,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 114.95
+        }
+      ],
+      "total_amount": 114.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1191",
+      "order_id": "ORD-1191",
+      "date": "2026-10-18T14:32:00.347366",
+      "customer_name": "Global Logistics Partners",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 3,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 1169.97
+        },
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 319.96
+        },
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 9,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 584.91
+        }
+      ],
+      "total_amount": 2074.84,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1192",
+      "order_id": "ORD-1192",
+      "date": "2026-10-18T11:04:00.347366",
+      "customer_name": "Chloe Montgomery",
+      "channel": "B2B Direct",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 1,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 36.99
+        }
+      ],
+      "total_amount": 36.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1193",
+      "order_id": "ORD-1193",
+      "date": "2026-10-19T16:23:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 5,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 649.95
+        }
+      ],
+      "total_amount": 649.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1194",
+      "order_id": "ORD-1194",
+      "date": "2026-10-20T14:41:00.347366",
+      "customer_name": "Pinnacle Capital",
+      "channel": "Online Store",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 171.96
+        }
+      ],
+      "total_amount": 171.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1195",
+      "order_id": "ORD-1195",
+      "date": "2026-10-20T17:24:00.347366",
+      "customer_name": "Beacon Consulting Group",
+      "channel": "B2B Direct",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 559.96
+        }
+      ],
+      "total_amount": 559.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1196",
+      "order_id": "ORD-1196",
+      "date": "2026-10-20T12:07:00.347366",
+      "customer_name": "Samantha Chen",
+      "channel": "Online Store",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 3,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 110.97
+        },
+        {
+          "product_id": "P004",
+          "sku": "SKU-LS-004",
+          "product_name": "Aluminum Folding Laptop Stand",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 44.99,
+          "unit_cost": 16.0,
+          "total": 179.96
+        }
+      ],
+      "total_amount": 290.93,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1197",
+      "order_id": "ORD-1197",
+      "date": "2026-10-21T10:35:00.347366",
+      "customer_name": "Apex Financial Group",
+      "channel": "Retail Outlet",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 3,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 110.97
+        },
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 3,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 389.97
+        }
+      ],
+      "total_amount": 500.94,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1198",
+      "order_id": "ORD-1198",
+      "date": "2026-10-21T10:12:00.347366",
+      "customer_name": "Samantha Chen",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P006",
+          "sku": "SKU-WC-006",
+          "product_name": "4K Ultra-HD Conference Webcam",
+          "category": "Electronics",
+          "quantity": 8,
+          "unit_price": 139.99,
+          "unit_cost": 62.0,
+          "total": 1119.92
+        },
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 6,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 389.94
+        }
+      ],
+      "total_amount": 1509.86,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1199",
+      "order_id": "ORD-1199",
+      "date": "2026-10-22T17:08:00.347366",
+      "customer_name": "Zenith Retail",
+      "channel": "Retail Outlet",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 4,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 171.96
+        }
+      ],
+      "total_amount": 171.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1200",
+      "order_id": "ORD-1200",
+      "date": "2026-10-22T15:52:00.347366",
+      "customer_name": "Elena Rostova",
+      "channel": "Online Store",
+      "payment_method": "Corporate Invoice",
+      "items": [
+        {
+          "product_id": "P016",
+          "sku": "SKU-WP-016",
+          "product_name": "Mechanical Wrist Rest Pad",
+          "category": "Ergonomics",
+          "quantity": 4,
+          "unit_price": 18.99,
+          "unit_cost": 6.5,
+          "total": 75.96
+        }
+      ],
+      "total_amount": 75.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1201",
+      "order_id": "ORD-1201",
+      "date": "2026-10-23T17:40:00.347366",
+      "customer_name": "Apex Financial Group",
+      "channel": "B2B Direct",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 3,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 110.97
+        },
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 2,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 53.98
+        }
+      ],
+      "total_amount": 164.95,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1202",
+      "order_id": "ORD-1202",
+      "date": "2026-10-23T17:09:00.347366",
+      "customer_name": "Marcus Vance",
+      "channel": "B2B Direct",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P002",
+          "sku": "SKU-MK-002",
+          "product_name": "Mechanical RGB Gaming Keyboard",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 129.99,
+          "unit_cost": 55.0,
+          "total": 129.99
+        }
+      ],
+      "total_amount": 129.99,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1203",
+      "order_id": "ORD-1203",
+      "date": "2026-10-23T17:57:00.347366",
+      "customer_name": "Pacific Commerce",
+      "channel": "B2B Direct",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P008",
+          "sku": "SKU-DP-008",
+          "product_name": "Dual-Sided Eco-Leather Desk Pad",
+          "category": "Accessories",
+          "quantity": 3,
+          "unit_price": 26.99,
+          "unit_cost": 9.2,
+          "total": 80.97
+        }
+      ],
+      "total_amount": 80.97,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1204",
+      "order_id": "ORD-1204",
+      "date": "2026-10-24T17:41:00.347366",
+      "customer_name": "Apex Financial Group",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 7,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 2729.93
+        },
+        {
+          "product_id": "P003",
+          "sku": "SKU-HUB-003",
+          "product_name": "10-in-1 USB-C Pro Docking Hub",
+          "category": "Accessories",
+          "quantity": 4,
+          "unit_price": 89.99,
+          "unit_cost": 38.0,
+          "total": 359.96
+        }
+      ],
+      "total_amount": 3089.89,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1205",
+      "order_id": "ORD-1205",
+      "date": "2026-10-24T10:02:00.347366",
+      "customer_name": "Vanguard Health Systems",
+      "channel": "B2B Direct",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P011",
+          "sku": "SKU-MS-011",
+          "product_name": "Heavy-Duty Gas Spring Monitor Arm",
+          "category": "Ergonomics",
+          "quantity": 1,
+          "unit_price": 79.99,
+          "unit_cost": 31.0,
+          "total": 79.99
+        },
+        {
+          "product_id": "P014",
+          "sku": "SKU-BT-014",
+          "product_name": "USB Bluetooth 5.4 Audio Transmitter",
+          "category": "Audio",
+          "quantity": 1,
+          "unit_price": 22.99,
+          "unit_cost": 8.0,
+          "total": 22.99
+        }
+      ],
+      "total_amount": 102.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1206",
+      "order_id": "ORD-1206",
+      "date": "2026-10-25T17:18:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "B2B Direct",
+      "payment_method": "PayPal",
+      "items": [
+        {
+          "product_id": "P001",
+          "sku": "SKU-WM-001",
+          "product_name": "Wireless Ergonomic Mouse",
+          "category": "Electronics",
+          "quantity": 4,
+          "unit_price": 59.99,
+          "unit_cost": 24.5,
+          "total": 239.96
+        }
+      ],
+      "total_amount": 239.96,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1207",
+      "order_id": "ORD-1207",
+      "date": "2026-10-25T16:04:00.347366",
+      "customer_name": "David K. Patel",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P013",
+          "sku": "SKU-DL-013",
+          "product_name": "Monitor Light Bar Screen Lamp",
+          "category": "Accessories",
+          "quantity": 7,
+          "unit_price": 64.99,
+          "unit_cost": 27.0,
+          "total": 454.93
+        }
+      ],
+      "total_amount": 454.93,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1208",
+      "order_id": "ORD-1208",
+      "date": "2026-10-26T14:38:00.347366",
+      "customer_name": "Global Logistics Partners",
+      "channel": "B2B Direct",
+      "payment_method": "Wire Transfer",
+      "items": [
+        {
+          "product_id": "P015",
+          "sku": "SKU-NV-015",
+          "product_name": "PCIe 4.0 NVMe M.2 Enclosure (Tool-Free)",
+          "category": "Computing",
+          "quantity": 2,
+          "unit_price": 36.99,
+          "unit_cost": 15.0,
+          "total": 73.98
+        }
+      ],
+      "total_amount": 73.98,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1209",
+      "order_id": "ORD-1209",
+      "date": "2026-10-26T17:35:00.347366",
+      "customer_name": "Horizon Softworks",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "ACH Transfer",
+      "items": [
+        {
+          "product_id": "P012",
+          "sku": "SKU-SP-012",
+          "product_name": "Smart Power Strip with Surge Protection",
+          "category": "Power",
+          "quantity": 5,
+          "unit_price": 42.99,
+          "unit_cost": 17.5,
+          "total": 214.95
+        },
+        {
+          "product_id": "P007",
+          "sku": "SKU-TB-007",
+          "product_name": "Thunderbolt 4 High-Speed Cable (2m)",
+          "category": "Accessories",
+          "quantity": 8,
+          "unit_price": 32.99,
+          "unit_cost": 11.5,
+          "total": 263.92
+        }
+      ],
+      "total_amount": 478.87,
+      "status": "Completed"
+    },
+    {
+      "id": "ORD-1210",
+      "order_id": "ORD-1210",
+      "date": "2026-10-26T12:09:00.347366",
+      "customer_name": "Skyline Media Labs",
+      "channel": "Enterprise Wholesale",
+      "payment_method": "Credit Card",
+      "items": [
+        {
+          "product_id": "P009",
+          "sku": "SKU-MC-009",
+          "product_name": "Pro Ergonomic Lumbar Mesh Chair",
+          "category": "Ergonomics",
+          "quantity": 10,
+          "unit_price": 389.99,
+          "unit_cost": 175.0,
+          "total": 3899.9
+        }
+      ],
+      "total_amount": 3899.9,
+      "status": "Completed"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": "SUP-101",
+      "name": "Apex Electronics Supply Co.",
+      "contact_email": "orders@apexelectronics.com",
+      "phone": "+1 (555) 234-5678",
+      "lead_time_days": 5,
+      "rating": 4.8,
+      "categories_supplied": [
+        "Electronics",
+        "Computing",
+        "Peripherals"
+      ],
+      "status": "Active"
+    },
+    {
+      "id": "SUP-102",
+      "name": "Nova Peripheral Labs",
+      "contact_email": "procurement@novaperipherals.io",
+      "phone": "+1 (555) 876-5432",
+      "lead_time_days": 7,
+      "rating": 4.6,
+      "categories_supplied": [
+        "Accessories",
+        "Ergonomics"
+      ],
+      "status": "Active"
+    },
+    {
+      "id": "SUP-103",
+      "name": "Quantum Audio & Video Tech",
+      "contact_email": "sales@quantumaudio.com",
+      "phone": "+1 (555) 345-6789",
+      "lead_time_days": 10,
+      "rating": 4.9,
+      "categories_supplied": [
+        "Audio",
+        "Electronics"
+      ],
+      "status": "Active"
+    },
+    {
+      "id": "SUP-104",
+      "name": "ErgoWork Dynamic Logistics",
+      "contact_email": "b2b@ergowork.com",
+      "phone": "+1 (555) 456-7890",
+      "lead_time_days": 8,
+      "rating": 4.4,
+      "categories_supplied": [
+        "Ergonomics",
+        "Accessories"
+      ],
+      "status": "Active"
+    },
+    {
+      "id": "SUP-105",
+      "name": "Vanguard Cable & Power Systems",
+      "contact_email": "support@vanguardcable.com",
+      "phone": "+1 (555) 567-8901",
+      "lead_time_days": 4,
+      "rating": 4.7,
+      "categories_supplied": [
+        "Accessories",
+        "Power"
+      ],
+      "status": "Active"
+    }
+  ],
+  "saved_at": "2026-10-26T19:09:44.885694"
+}
