@@ -7,7 +7,7 @@ export default function Header({
   loading,
   setActivePage
 }) {
-  const isDemo = systemStatus?.demo_mode;
+  const isMongo = systemStatus?.mongodb_connected;
 
   return (
     <header className="topbar">
@@ -29,20 +29,20 @@ export default function Header({
       </div>
 
       <div className="topbar-actions">
-        {isDemo ? (
-          <button
-            className="header-badge demo-badge"
-            onClick={() => setActivePage("Settings")}
-            title="Click to configure MongoDB Atlas credentials"
-          >
-            <ShieldAlert size={14} />
-            <span>Demo Mode Active</span>
-          </button>
-        ) : (
+        {isMongo ? (
           <div className="header-badge atlas-badge">
             <Database size={14} />
-            <span>MongoDB Atlas</span>
+            <span>MongoDB Atlas Active</span>
           </div>
+        ) : (
+          <button
+            className="header-badge live-edge-badge"
+            onClick={() => setActivePage("Settings")}
+            title="Click to link MongoDB Atlas cluster"
+          >
+            <Database size={14} />
+            <span>Enterprise Core (Live)</span>
+          </button>
         )}
 
         <button

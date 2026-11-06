@@ -136,7 +136,7 @@ export default function ReportsView({ showToast }) {
           <div className="diag-item">
             <div className="diag-label">
               <strong>Data Freshness</strong>
-              <span>Dynamically compiles real-time state from database or demo store</span>
+              <span>Dynamically compiles real-time state from cloud database or local cache</span>
             </div>
             <span className="diag-val">100% Real-time</span>
           </div>

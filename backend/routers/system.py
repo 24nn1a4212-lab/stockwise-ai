@@ -1,6 +1,8 @@
 """
 System Diagnostics, Database Admin, and Seeder Router for StockWise AI.
 """
+import logging
+from pathlib import Path
 from typing import List
 from pydantic import BaseModel, Field
 from fastapi import APIRouter, HTTPException
@@ -10,7 +12,41 @@ from models.schemas import DBStatusResponse, MessageResponse, Supplier, Supplier
 from config import settings
 from pymongo import MongoClient
 
+logger = logging.getLogger("stockwise.system")
 router = APIRouter(prefix="/system", tags=["System & Admin"])
+
+
+def _persist_to_env(uri: str, db_name: str):
+    """Persist working MongoDB credentials to .env for subsequent runs."""
+    try:
+        env_path = Path(__file__).parent.parent / ".env"
+        lines = []
+        if env_path.exists():
+            with open(env_path, "r", encoding="utf-8") as f:
+                lines = f.readlines()
+
+        has_uri = False
+        has_db = False
+        new_lines = []
+        for line in lines:
+            if line.startswith("MONGODB_URI="):
+                new_lines.append(f"MONGODB_URI={uri}\n")
+                has_uri = True
+            elif line.startswith("DB_NAME="):
+                new_lines.append(f"DB_NAME={db_name}\n")
+                has_db = True
+            else:
+                new_lines.append(line)
+        if not has_uri:
+            new_lines.append(f"MONGODB_URI={uri}\n")
+        if not has_db:
+            new_lines.append(f"DB_NAME={db_name}\n")
+
+        with open(env_path, "w", encoding="utf-8") as f:
+            f.writelines(new_lines)
+        logger.info("Successfully persisted MongoDB URI to .env")
+    except Exception as e:
+        logger.warning("Could not persist to .env file: %s", e)
 
 
 class ConnectRequest(BaseModel):
@@ -49,6 +85,7 @@ def connect_mongodb(payload: ConnectRequest):
         db_manager.using_fallback = False
         db_manager.fallback_reason = ""
         db_manager._ensure_mongodb_seeded()
+        _persist_to_env(uri, payload.db_name)
 
         return db_manager.get_status()
     except Exception as err:

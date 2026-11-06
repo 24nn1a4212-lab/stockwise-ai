@@ -755,14 +755,14 @@ footer {
   border: 0;
 }
 
-.demo-badge {
-  background: #fef3c7;
-  color: #b45309;
-  border: 1px solid #fde68a;
+.live-edge-badge {
+  background: #e0e7ff;
+  color: #3730a3;
+  border: 1px solid #c7d2fe;
 }
 
-.demo-badge:hover {
-  background: #fde68a;
+.live-edge-badge:hover {
+  background: #c7d2fe;
 }
 
 .atlas-badge {
@@ -790,6 +790,12 @@ footer {
   background: rgba(78, 212, 160, 0.15);
   color: #4ed4a0;
   border: 1px solid rgba(78, 212, 160, 0.3);
+}
+
+.status-pill.edge {
+  background: rgba(99, 102, 241, 0.15);
+  color: #818cf8;
+  border: 1px solid rgba(99, 102, 241, 0.3);
 }
 
 .status-pill.demo {

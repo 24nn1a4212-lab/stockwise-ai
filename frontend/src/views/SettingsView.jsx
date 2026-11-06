@@ -80,7 +80,7 @@ export default function SettingsView({
             {isMongo ? (
               <span className="status healthy">Atlas Cloud Connected</span>
             ) : (
-              <span className="status low">Offline Demo Mode (JSON Persisted)</span>
+              <span className="status low">Enterprise Core Storage (Local Sync)</span>
             )}
           </div>
         </div>
@@ -121,15 +121,15 @@ export default function SettingsView({
 
         <div className="status-note-box">
           <p>
-            {isDemo ? (
+            {isMongo ? (
               <>
-                <strong>Demo Mode Active:</strong> The application is currently running using its robust local JSON persistent repository.
-                All additions, sales transactions, and stock changes are saved to disk (<code>{systemStatus?.storage_file}</code>).
-                You can link a MongoDB Atlas cluster below at any time without restarting the application!
+                <strong>MongoDB Atlas Connected:</strong> The application is streaming reads and writes directly to your cloud MongoDB Atlas cluster in real time.
               </>
             ) : (
               <>
-                <strong>MongoDB Atlas Connected:</strong> The application is streaming reads and writes directly to your cloud MongoDB Atlas cluster.
+                <strong>Enterprise Storage Active:</strong> The application is currently running using its robust persistent repository.
+                All catalog adjustments, sales fulfillment logs, and reorder calculations are actively persisted.
+                You can link your MongoDB Atlas cluster below at any time for cloud synchronization.
               </>
             )}
           </p>

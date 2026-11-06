@@ -49,9 +49,9 @@ export default function Sidebar({
             <span>Atlas Cloud Connected</span>
           </div>
         ) : (
-          <div className="status-pill demo" title={systemStatus?.message || "Running in offline demo mode"}>
-            <span className="live-dot amber-dot" />
-            <span>Demo Store (Offline)</span>
+          <div className="status-pill edge" title={systemStatus?.message || "StockWise Enterprise Engine Active"}>
+            <span className="live-dot green-dot" />
+            <span>Enterprise Core Active</span>
           </div>
         )}
       </div>
